@@ -56,9 +56,9 @@ In statistics, we focus on four areas. (Summarized from the videos above.)
 3. outliers
 4. Statistical assumptions
 
-### Multiple Regression
+### Independent t-test
 
-Multiple regression is used to predict the value of a continuous variable from predictor variables. Not only does it assess the strength and direction of the relationships between the predictor variables and the outcome variable when controlling for the other variables in the model. Multiple linear regression belongs to a family of tests known as parametric tests and has similar distributional assumptions.
+The independent t-test is used to compare the means of two unrelated groups. The linear model equivalent of an independent t-test is to predict the value of a continuous variable from a dichotomous predictor variable. The independent t-test belongs to a family of tests known as parametric tests and has similar distributional assumptions.
 
 ### Jamovi part
 
