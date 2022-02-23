@@ -1,5 +1,7 @@
 # Independent t-test Exercise
 
+A video demonstration of this assignment is available at: https://youtu.be/v7tofOnX-1w
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
